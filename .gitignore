@@ -1,5 +1,6 @@
 # 秘密情報を無視する
 .env
+love_meter.json
 
 # Pythonが自動生成するキャッシュファイルなどを無視する
 __pycache__/
